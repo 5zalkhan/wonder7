@@ -65,7 +65,7 @@ section{
     align-items: center;
 }
 #header{
-	background:url("c:/mypicture/bedroom.jpg");
+	background:url("gallery/bedroom.jpg");
        background-position: center;
 	background-size: cover;
        
