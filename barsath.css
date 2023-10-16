@@ -66,9 +66,7 @@ section{
     align-items: center;
 }
 #header{
-	background:url("gallery/bedroom.jpg");
-       background-position: center;
-	background-size: cover;
+	
        
           flex-direction: column;
            width:100%;
@@ -180,7 +178,7 @@ section{
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-left:30px;
+  
 }
 #interior h1{
        color:white;
@@ -265,9 +263,7 @@ section{
                 margin-right: 12px;
                 
      }
-     #gallery .container{
-            margin-left: 25%;
-     }
+     
      
      #gallery img{
             height:200px;
