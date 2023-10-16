@@ -26,35 +26,35 @@
 
 
 #navbarSupportedContent a{
-       color:lightcyan;
+       color:white;
        font-size: 20px;
        font-weight: 300;
 }
 .navbar a:hover{
-       border-bottom: 3px solid cyan;
+       border-bottom: 3px solid white;
 }
 
 
 
 .navbar .navbar-brand{
-      color:cyan;
+      color:white;
       font-weight: 400;
       font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .navbar .navbar-brand:hover{
-        color:white;
+        color:lightgreen;
 }
 .navbar .navbar-brand{
-       color:white;w
+       color:white;
        font-weight: 400;
 }
 
 .navbar button{
-         color:3px solid white;
+         color:white;
 }
 
 .navbar button:hover{
-            color:3px solid white;
+            color:10px solid white;
 }
 section{
     width:100%;
