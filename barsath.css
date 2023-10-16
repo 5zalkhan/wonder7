@@ -65,9 +65,9 @@ section{
 }
 #header{
 	background-color:rgba(0,0,255,0.6);
-       display:flex;
+       
 	justify-content:center;
-	align-items:center;
+	overfloe-x:hidden;
           flex-direction: column;
            width:100%;
            min-height:100vh;
