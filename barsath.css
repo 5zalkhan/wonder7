@@ -180,7 +180,7 @@ section{
   display: flex;
   align-items: center;
   justify-content: center;
-  
+  margin-left:30px;
 }
 #interior h1{
        color:white;
