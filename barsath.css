@@ -66,7 +66,7 @@ section{
     align-items: center;
 }
 #header{
-	background-color:black;
+	background-color:rgba(0,0,255,0.6);
        display:flex;
 	justify-content:center;
 	align-items:center;
@@ -196,7 +196,7 @@ section{
            
 }
 #interior .container{
-       margin-left: 25%;
+       margin-left: 22%;
 }
 
 #interior img{
@@ -231,7 +231,7 @@ section{
                 
      }
      #exterior .container{
-            margin-left: 25%;
+            margin-left: 22%;
      }
      
      #exterior img{
@@ -266,7 +266,7 @@ section{
                 
      }
       #gallery .container{
-            margin-left: 25%;
+            margin-left: 22%;
      }
      
      #gallery img{
@@ -300,7 +300,7 @@ section{
     #contact h4{
         color:cyan;
         font-size: 22px;
-        margin-left: 100px;
+        margin-left: 140px;
         
     
            
